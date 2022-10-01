@@ -1,3 +1,4 @@
+//Deleting a number into a Array Data Structure....
 #include<stdio.h>
 #define Maxsize 100
 int main()
